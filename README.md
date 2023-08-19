@@ -3,7 +3,7 @@
 ## Description
 Text Editor that runs in the browser.
 
-## [Heroku: PWA Text Editor](https://git.heroku.com/pwa-text-edits.git
+## [Heroku: PWA Text Editor](https://pwa-text-edits-84d62b813383.herokuapp.com/)
 
 ## Table of Contents
 4. [Contribution](#contribution)
